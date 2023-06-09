@@ -1,0 +1,4 @@
+July 3, 2009
+------------
+
+support kingbase by jdbc
