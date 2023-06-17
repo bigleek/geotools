@@ -57,6 +57,7 @@
     <module>jdbc-sqlserver</module>
     <module>jdbc-teradata</module>
     <module>jdbc-hana</module>
+    <module>jdbc-kingbase</module>
   </modules>
 
   <dependencies>
